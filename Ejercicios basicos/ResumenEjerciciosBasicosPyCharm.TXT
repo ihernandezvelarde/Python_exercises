@@ -1,0 +1,8 @@
+Ejercicio1--> Intro peso y altura sacar imc.
+Ejercicio2-->Ejercicio if else venta de payasos y muñecas por peso y unidades.
+Ejercicio3--> El 4% de una cantidad, el 8 y el 12.
+Ejercicio4--> Precio barra de pan con el 30% de descuento.
+Ejercicio5-->Contraseña y verificar si es correcta.
+Ejercicio6--> Par o impar.
+Ejercicio7-->Dada una edad y ingresos ver si es mayor de 16 y tiene unos ingresos de mas de 1000€ entonces tributara.
+Ejercicio8-->Dada una cantidad de dinero segun su renta anual así se le aplica un pocentaje o otro de comisiones.

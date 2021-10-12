@@ -1,0 +1,2 @@
+Ejercicio1-->Dibujo juagrado de "*" relleno de "#"
+Ejercicio2--> Juego entre 2 personas. una persona siempre par y la otra impar,contador empieza a 9, cuando llegue a 0 el juego se acaba y pregunta si quiere volver a jugar.

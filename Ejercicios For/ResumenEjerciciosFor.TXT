@@ -1,0 +1,11 @@
+Ejercicio1-->Programa que te pide dos numeros el segundo mas grande que el primero, contemplado error, por ultimo imprimir numeros entre los dos introducidos, primero incluido el segundo no.
+Ejercicio2-->Lo mismo que el anterior pero sumando los numeros.
+Ejercicio3-->Lo mismo que el primero pero mostrando por pantalla los numeros impares ente estos.
+Ejercicio4-->Lo mismo que el primero pero mostrando los divisores.
+Ejercicio5-->Ejercicio que dice la largada de una string.
+Ejercicio8-->Dados dos numeros primero mas pequeño que el segundo, imprimir los numeros pares  de manera decreciente entre los dos numeros introducidos.
+Ejercicio9-->Triangulo descendente de "a"'s.
+Ejercicio10--> Piramide de "*".
+EjercicioPruebaFor--> 1.Lista. 2.Printar todos los numeros de 1 al 100.
+
+

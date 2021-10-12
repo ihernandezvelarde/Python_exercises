@@ -1,0 +1,9 @@
+Ejercicio1-->Introducir numeros hasta que sea uno negativo entonces el programa termina.
+Ejercicio2-->Igual que el anterior pero dira el numero mas grande introducido.
+Ejercicio3-->Igual que el primero pero sumando los numeros positivos introducidos.
+Ejercicio4-->Igual que el 4 pero sumando los numeros positivos y diciendo el total de num introducidos.
+Ejercicio5-->Intro num que hara de base y otro de exponente, el programa sacara la potencia del numero.
+Ejercicio6-->User intro numero entero y el programa calcula el producto de los 'x' primeros numeros enteros una vez introduzca un numero negativo.
+Ejercicio7--> User intro numero y el programa calculara la suma de los n primeros naturales impares.
+Ejercicio8-->Programa que vaya leyendo números hasta que se introduzca un -1, deberá sumar y contar aquellos números comprendidos entre 0 y 10, imprimir aquellos que no suma y finalmente imprimir la media de los números sumados
+PruebaWhile--> Intro numero hasta que sea negativo, imprimir suma de estos y el numero de numeros introducidos.
